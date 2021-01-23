@@ -21,6 +21,17 @@
 
 ## What are the differences between Heap and Stack memory?
 ![](https://github.com/shamy1st/java-interview-edureka/blob/main/images/q7.png)
+![](https://github.com/shamy1st/java-interview-edureka/blob/main/images/q7-1.png)
+![](https://github.com/shamy1st/java-interview-edureka/blob/main/images/q7-2.png)
+
+## What is the difference between ArrayList and Vector?
+![](https://github.com/shamy1st/java-interview-edureka/blob/main/images/q8.png)
+
+## What is the difference between HashMap and HashTable?
+![](https://github.com/shamy1st/java-interview-edureka/blob/main/images/q9.png)
+
+## What is the difference between equals() and == operator?
+![](https://github.com/shamy1st/java-interview-edureka/blob/main/images/q10.png)
 
 ## 
 
