@@ -19,6 +19,9 @@
 ## What is the difference between StringBuffer and StringBuilder?
 ![](https://github.com/shamy1st/java-interview-edureka/blob/main/images/q6.png)
 
+## What are the differences between Heap and Stack memory?
+![](https://github.com/shamy1st/java-interview-edureka/blob/main/images/q7.png)
+
 ## 
 
 ## Ref
