@@ -113,6 +113,41 @@
 ## 
 ![](https://github.com/shamy1st/java-interview-edureka/blob/main/images/q33.png)
 
+## 
+![](https://github.com/shamy1st/java-interview-edureka/blob/main/images/q34.png)
+
+## 
+![](https://github.com/shamy1st/java-interview-edureka/blob/main/images/q35.png)
+
+## 
+![](https://github.com/shamy1st/java-interview-edureka/blob/main/images/q36.png)
+
+## 
+![](https://github.com/shamy1st/java-interview-edureka/blob/main/images/q37.png)
+
+## 
+![](https://github.com/shamy1st/java-interview-edureka/blob/main/images/q38.png)
+
+## 
+![](https://github.com/shamy1st/java-interview-edureka/blob/main/images/q39.png)
+
+## 
+![](https://github.com/shamy1st/java-interview-edureka/blob/main/images/q40.png)
+
+## 
+![](https://github.com/shamy1st/java-interview-edureka/blob/main/images/q41.png)
+
+## 
+![](https://github.com/shamy1st/java-interview-edureka/blob/main/images/q42.png)
+
+## 
+![](https://github.com/shamy1st/java-interview-edureka/blob/main/images/q43.png)
+
+# Hibernate
+
+## 
+![](https://github.com/shamy1st/java-interview-edureka/blob/main/images/q44.png)
+
 
 ## Ref
 * https://www.youtube.com/watch?v=oYXivKMSEqM&t=2985s
