@@ -51,9 +51,11 @@
 
 ## What is the difference between method overloading and method overriding?
 ![](https://github.com/shamy1st/java-interview-edureka/blob/main/images/q15.png)
+![](https://github.com/shamy1st/java-interview-edureka/blob/main/images/q15-1.png)
 
-## 
+## Can you override a private or static method in Java?
 ![](https://github.com/shamy1st/java-interview-edureka/blob/main/images/q16.png)
+
 
 
 ## Ref
