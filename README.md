@@ -33,7 +33,12 @@
 ## What is the difference between equals() and == operator?
 ![](https://github.com/shamy1st/java-interview-edureka/blob/main/images/q10.png)
 
-## 
+## What will be the output of this program?
+![](https://github.com/shamy1st/java-interview-edureka/blob/main/images/q11.png)
+
+## What is the difference between Abstract classes and Interfaces?
+![](https://github.com/shamy1st/java-interview-edureka/blob/main/images/q12.png)
+
 
 ## Ref
 * https://www.youtube.com/watch?v=oYXivKMSEqM&t=2985s
