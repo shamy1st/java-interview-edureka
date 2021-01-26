@@ -43,6 +43,18 @@
 ## What is the difference between Abstract classes and Interfaces?
 ![](https://github.com/shamy1st/java-interview-edureka/blob/main/images/q12.png)
 
+## 
+![](https://github.com/shamy1st/java-interview-edureka/blob/main/images/q13.png)
+
+## 
+![](https://github.com/shamy1st/java-interview-edureka/blob/main/images/q14.png)
+
+## 
+![](https://github.com/shamy1st/java-interview-edureka/blob/main/images/q15.png)
+
+## 
+![](https://github.com/shamy1st/java-interview-edureka/blob/main/images/q16.png)
+
 
 ## Ref
 * https://www.youtube.com/watch?v=oYXivKMSEqM&t=2985s
