@@ -43,13 +43,13 @@
 ## What is the difference between Abstract classes and Interfaces?
 ![](https://github.com/shamy1st/java-interview-edureka/blob/main/images/q12.png)
 
-## 
+## What is Polymorphism?
 ![](https://github.com/shamy1st/java-interview-edureka/blob/main/images/q13.png)
 
-## 
+## What is runtime polymorphism or dynamic method dispatch?
 ![](https://github.com/shamy1st/java-interview-edureka/blob/main/images/q14.png)
 
-## 
+## What is the difference between method overloading and method overriding?
 ![](https://github.com/shamy1st/java-interview-edureka/blob/main/images/q15.png)
 
 ## 
