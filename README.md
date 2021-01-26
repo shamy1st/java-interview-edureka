@@ -110,37 +110,37 @@
 
 # Spring
 
-## 
+## What is Spring?
 ![](https://github.com/shamy1st/java-interview-edureka/blob/main/images/q33.png)
 
-## 
+## What are the different modules of Spring framework?
 ![](https://github.com/shamy1st/java-interview-edureka/blob/main/images/q34.png)
 
-## 
+## List some of the important annotations in annotation-based Spring configuration.
 ![](https://github.com/shamy1st/java-interview-edureka/blob/main/images/q35.png)
 
-## 
+## What is a Bean in Spring and Explain the different scopes of bean in Spring?
 ![](https://github.com/shamy1st/java-interview-edureka/blob/main/images/q36.png)
 
-## 
+## How is a Bean added to a Spring application?
 ![](https://github.com/shamy1st/java-interview-edureka/blob/main/images/q37.png)
 
-## 
+## Explain the role of DispatcherServlet and ContextLoaderListener.
 ![](https://github.com/shamy1st/java-interview-edureka/blob/main/images/q38.png)
 
-## 
+## What is the difference between constructor injection and setter injection?
 ![](https://github.com/shamy1st/java-interview-edureka/blob/main/images/q39.png)
 
-## 
+## What is Autowiring in Spring? What are the autowiring modes?
 ![](https://github.com/shamy1st/java-interview-edureka/blob/main/images/q40.png)
 
-## 
+## How to handle Exceptions in Spring MVC framework?
 ![](https://github.com/shamy1st/java-interview-edureka/blob/main/images/q41.png)
 
-## 
+## What are some of the important Spring annotations used?
 ![](https://github.com/shamy1st/java-interview-edureka/blob/main/images/q42.png)
 
-## 
+## How to integrate Spring and Hibernate frameworks?
 ![](https://github.com/shamy1st/java-interview-edureka/blob/main/images/q43.png)
 
 # Hibernate
