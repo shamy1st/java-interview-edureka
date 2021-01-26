@@ -145,20 +145,21 @@
 
 # Hibernate
 
-## 
+## What is Hibernate framework?
 ![](https://github.com/shamy1st/java-interview-edureka/blob/main/images/q44.png)
 
-## 
+## What are the important benefits of using Hibernate framework?
 ![](https://github.com/shamy1st/java-interview-edureka/blob/main/images/q45.png)
 
-## 
+## Explain Hibernate Architecture.
 ![](https://github.com/shamy1st/java-interview-edureka/blob/main/images/q46.png)
 
-## 
+## What is the difference between get and load method?
 ![](https://github.com/shamy1st/java-interview-edureka/blob/main/images/q47.png)
 
-## 
+## What are the advantages of Hibernate over JDBC?
 ![](https://github.com/shamy1st/java-interview-edureka/blob/main/images/q48.png)
+
 
 ## Ref
 * https://www.youtube.com/watch?v=oYXivKMSEqM&t=2985s
