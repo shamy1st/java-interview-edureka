@@ -93,8 +93,26 @@
 
 # JDBC
 
-## 
+## What is JDBC Driver?
 ![](https://github.com/shamy1st/java-interview-edureka/blob/main/images/q28.png)
+
+## What are the steps to connect to the database in Java?
+![](https://github.com/shamy1st/java-interview-edureka/blob/main/images/q29.png)
+
+## What are the different JDBC API components?
+![](https://github.com/shamy1st/java-interview-edureka/blob/main/images/q30.png)
+
+## What is a JDBC Connection interface?
+![](https://github.com/shamy1st/java-interview-edureka/blob/main/images/q31.png)
+
+## What is the difference between execute, executeQuery, executeUpdate?
+![](https://github.com/shamy1st/java-interview-edureka/blob/main/images/q32.png)
+
+# Spring
+
+## 
+![](https://github.com/shamy1st/java-interview-edureka/blob/main/images/q33.png)
+
 
 ## Ref
 * https://www.youtube.com/watch?v=oYXivKMSEqM&t=2985s
