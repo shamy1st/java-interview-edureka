@@ -56,6 +56,28 @@
 ## Can you override a private or static method in Java?
 ![](https://github.com/shamy1st/java-interview-edureka/blob/main/images/q16.png)
 
+## What is multiple inheritance and does java support?
+![](https://github.com/shamy1st/java-interview-edureka/blob/main/images/q17.png)
+
+## What will be the output of this program?
+![](https://github.com/shamy1st/java-interview-edureka/blob/main/images/q18.png)
+
+## What will be the output of this program?
+![](https://github.com/shamy1st/java-interview-edureka/blob/main/images/q19.png)
+
+## What will be the output of this program?
+![](https://github.com/shamy1st/java-interview-edureka/blob/main/images/q20.png)
+
+# Servlets
+
+## 
+![](https://github.com/shamy1st/java-interview-edureka/blob/main/images/q21.png)
+
+## 
+![](https://github.com/shamy1st/java-interview-edureka/blob/main/images/q22.png)
+
+## 
+![](https://github.com/shamy1st/java-interview-edureka/blob/main/images/q23.png)
 
 
 ## Ref
