@@ -70,15 +70,31 @@
 
 # Servlets
 
-## 
+## What is a Servlet?
 ![](https://github.com/shamy1st/java-interview-edureka/blob/main/images/q21.png)
 
-## 
+## What is the difference between Get and Post method?
 ![](https://github.com/shamy1st/java-interview-edureka/blob/main/images/q22.png)
 
-## 
+## What are different methods of session management in servlets?
 ![](https://github.com/shamy1st/java-interview-edureka/blob/main/images/q23.png)
 
+## What is the difference between ServletContext and ServletConfig?
+![](https://github.com/shamy1st/java-interview-edureka/blob/main/images/q24.png)
+
+## What is the lifecycle of a servlet?
+![](https://github.com/shamy1st/java-interview-edureka/blob/main/images/q25.png)
+
+## What is Request Dispatcher?
+![](https://github.com/shamy1st/java-interview-edureka/blob/main/images/q26.png)
+
+## How does cookies work in Servlets?
+![](https://github.com/shamy1st/java-interview-edureka/blob/main/images/q27.png)
+
+# JDBC
+
+## 
+![](https://github.com/shamy1st/java-interview-edureka/blob/main/images/q28.png)
 
 ## Ref
 * https://www.youtube.com/watch?v=oYXivKMSEqM&t=2985s
