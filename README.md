@@ -148,6 +148,17 @@
 ## 
 ![](https://github.com/shamy1st/java-interview-edureka/blob/main/images/q44.png)
 
+## 
+![](https://github.com/shamy1st/java-interview-edureka/blob/main/images/q45.png)
+
+## 
+![](https://github.com/shamy1st/java-interview-edureka/blob/main/images/q46.png)
+
+## 
+![](https://github.com/shamy1st/java-interview-edureka/blob/main/images/q47.png)
+
+## 
+![](https://github.com/shamy1st/java-interview-edureka/blob/main/images/q48.png)
 
 ## Ref
 * https://www.youtube.com/watch?v=oYXivKMSEqM&t=2985s
