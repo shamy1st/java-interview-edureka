@@ -1,5 +1,7 @@
 # Java Interview Questions and Answers | Edureka
 
+# Basics
+
 ## What is difference between JDK, JRE and JVM?
 ![](https://github.com/shamy1st/java-interview-edureka/blob/main/images/q1.png)
 
@@ -35,6 +37,8 @@
 
 ## What will be the output of this program?
 ![](https://github.com/shamy1st/java-interview-edureka/blob/main/images/q11.png)
+
+# OOP
 
 ## What is the difference between Abstract classes and Interfaces?
 ![](https://github.com/shamy1st/java-interview-edureka/blob/main/images/q12.png)
